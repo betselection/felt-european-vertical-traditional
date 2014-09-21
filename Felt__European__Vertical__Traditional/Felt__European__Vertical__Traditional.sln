@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Felt__European__Vertical__Traditional", "Felt__European__Vertical__Traditional.csproj", "{DE9659E9-CD21-4FD4-AD4D-E1EF8F4AA148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE9659E9-CD21-4FD4-AD4D-E1EF8F4AA148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9659E9-CD21-4FD4-AD4D-E1EF8F4AA148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9659E9-CD21-4FD4-AD4D-E1EF8F4AA148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9659E9-CD21-4FD4-AD4D-E1EF8F4AA148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Felt__European__Vertical__Traditional.csproj
+	EndGlobalSection
+EndGlobal
