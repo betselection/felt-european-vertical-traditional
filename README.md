@@ -1,4 +1,6 @@
-felt-european-vertical-traditional
+Felt European Vertical Traditional
 ==================================
 
-Felt European Vertical Traditional module
+BetSoftware's Felt European Vertical Traditional module.
+
+Web: http://betselection.cc/betsoftware/
