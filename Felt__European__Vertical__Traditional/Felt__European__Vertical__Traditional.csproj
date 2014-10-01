@@ -7,8 +7,8 @@
     <OutputType>Library</OutputType>
     <RootNamespace>Felt__European__Vertical__Traditional</RootNamespace>
     <AssemblyName>Felt__European__Vertical__Traditional</AssemblyName>
-    <SynchReleaseVersion>false</SynchReleaseVersion>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

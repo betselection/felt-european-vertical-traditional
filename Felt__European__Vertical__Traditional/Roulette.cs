@@ -47,7 +47,6 @@ namespace Felt__European__Vertical__Traditional
         {
             switch (number)
             {
-
                 case 1:
                 case 3:
                 case 5:
